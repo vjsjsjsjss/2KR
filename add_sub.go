@@ -1,9 +1,9 @@
-package add_sub
+package main
 
 func Add(a, b float64) float64 {
-    return a + b
+	return a + b
 }
 
 func Sub(a, b float64) float64 {
-    return a - b
+	return a - b
 }
